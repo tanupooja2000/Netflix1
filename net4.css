@@ -1,0 +1,56 @@
+#kavya{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+#kav{
+    /* border: 1px solid white; */
+    height: 400px;
+    width: 1025px; 
+    display: flex;
+    justify-content: space-between;
+}
+#kavya1{
+/* border: 1px solid white; */
+height: 400px;
+width: 500px;
+background-image: url("../photos/dollNetflix.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+#kavya2{
+    /* border: 1px solid white; */
+    height: 400px;
+    width: 500px;
+    display: flex;
+ align-items: center;
+}
+#kavya21{
+ /* border: 1px solid white;   */
+ height: 250px;
+ width: 500px;
+ display: grid;
+ justify-content: space-between;
+ align-items: center;
+}
+#kavya211{
+/* border: 1px solid white;   */
+height: 120px;
+width: 500px;
+font-size: xxx-large;
+font-weight: 1000;
+font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+-webkit-text-fill-color: white;
+}
+#kavya212{
+/* border: 1px solid white;   */
+height: 120px;
+width: 500px;
+font-size: x-large;
+font-weight: 500;
+font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+-webkit-text-fill-color: white;
+}

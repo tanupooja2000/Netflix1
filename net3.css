@@ -1,0 +1,66 @@
+#ganu{
+    height: 600px;
+    width: 100%;
+    background-color: black; 
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+#ga{
+    /* border: 1px solid white;   */
+    height: 400px;
+    width: 1060px; 
+    display: flex;
+    justify-content: space-between;
+}
+#ganu1{
+    /* border: 1px solid white;   */
+    height: 400px;
+    width: 520px;
+    display: flex;
+    align-items: center;
+}
+#ganu2{
+    /* border: 1px solid white;   */
+    height: 400px;
+    width: 520px;
+    display: flex;
+    justify-content: center;
+    background-image: url("../photos/4th_tv_image.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+#ve2{
+    height: 350px;
+    width: 270px;
+    position: relative;
+   bottom: 60px;
+   right: 20px;
+}
+#ganu11{
+    /* border: 1px solid white;   */
+    height: 200px;
+    width: 520px;
+    display: grid;
+    justify-content: space-between;
+}
+#ganu111{
+    /* border: 1px solid white;   */
+    height: 95px;
+    width: 520px;
+    font-size: xxx-large;
+    font-weight: 1000;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    -webkit-text-fill-color: white;
+}
+#ganu112{
+    /* border: 1px solid white;   */
+    height: 95px;
+    width: 520px;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    -webkit-text-fill-color: white;
+}

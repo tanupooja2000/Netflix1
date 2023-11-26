@@ -1,0 +1,61 @@
+#tanu{
+    height: 600px;
+    width: 100%;
+    background-color: black;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+#ta{ 
+    /* border: 1px solid white; */
+    height: 400px;
+    width: 1025px;
+    display: flex;
+    justify-content: space-between;
+}
+#tanu1{
+    /* border: 1px solid white; */
+height: 400px;
+width: 500px;
+display: grid;
+    align-items: center;
+}
+#tanu2{
+    /* border: 1px solid white; */
+    height: 400px;
+    width: 500px;
+    background-image: url("../photos/Tv.jpg");
+    background-size: cover;
+}
+#ve{
+    height: 218px;
+    width: 385px;
+    position: relative;
+    left: 72px;
+    top: 82px;
+}
+#ta1{
+    /* border: 1px solid white; */
+    height: 225px;
+    width: 500px;
+}
+#ta11{
+    /* border: 1px solid white; */
+    height: 60px;
+    width: 500px;
+    font-size: xxx-large;
+    font-weight: 1000;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    -webkit-text-fill-color: white;
+}
+#ta12{
+    /* border: 1px solid white; */
+    height: 120px;
+    width: 500px;
+    position: relative;
+    top: 35px;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    -webkit-text-fill-color: white;
+}
